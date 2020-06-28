@@ -1,0 +1,35 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Network Card fixed on server 007",
+      "attention": false,
+      "tech": "Rachel Green",
+      "date": "2020-06-27T14:02:11.513Z"
+    },
+    {
+      "message": "1122 wireless down",
+      "attention": true,
+      "tech": "Chandler Bing",
+      "date": "2020-06-28T15:50:18.592Z",
+      "id": 2
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Chandler",
+      "lastName": "Bing"
+    },
+    {
+      "id": 2,
+      "firstName": "Rachel",
+      "lastName": "Green"
+    },
+    {
+      "id": 3,
+      "firstName": "Monica",
+      "lastName": "Geller"
+    }
+  ]
+}
